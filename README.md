@@ -1,7 +1,7 @@
-# **Data Analysis**
+# **Análise de dados**
 
-This Git repository is dedicated to my data analysis portfolio. Here, I will share projects and codes related to my experience as a data analyst.
+Este repositório do Github é dedicado aos meus projetos voltados para análise de dados. Aqui, eu irei compartilhar projetos e códigos relacionados à minha experiência trabalhando com dados.
 
-# **Repository Structure**
+# **Estrutura do repositório**
 
-Each project has its individual directory within the "data-analysis" repository, and each of them contains the necessary files such as source code, datasets, documentation, results, and any other relevant information.
+Cada projeto possui seu próprio diretório dentro do repositório "data-analysis", e cada um deles contém os arquivos necessários como o código fonte, datasets, documentações e resultados.
